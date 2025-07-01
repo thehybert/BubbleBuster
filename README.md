@@ -15,3 +15,6 @@ In the menu there is a spinning question mark, by clicking on that, you can lear
 
 ### NOTE ###
 this is a submitted project for CS50 harward's course week0.
+
+### my email : ###
+sepantamortazavi@gmail.com
